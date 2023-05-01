@@ -1,0 +1,4 @@
+﻿C:\Users\goesa\source\repos\Trabalho P1 - master\p1 - master\ConsoleApp3\ConsoleApp3.csproj : error  : o SDK 'Microsoft.NET.Sdk' especificado não pôde ser encontrado.  C:\Users\goesa\source\repos\Trabalho P1 - master\p1 - master\ConsoleApp3\ConsoleApp3.csproj
+
+C:\Users\goesa\source\repos\Trabalho P1 - master\p1 - master\Contas\Contas.csproj : error  : o SDK 'Microsoft.NET.Sdk.BlazorWebAssembly' especificado não pôde ser encontrado.  C:\Users\goesa\source\repos\Trabalho P1 - master\p1 - master\Contas\Contas.csproj
+
